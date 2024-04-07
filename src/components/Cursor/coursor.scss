@@ -1,0 +1,8 @@
+@import "../../app.scss";
+
+.cursor{
+
+    @include mobile{
+       display: none; 
+    }
+}
